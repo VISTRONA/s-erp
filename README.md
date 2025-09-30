@@ -13,3 +13,6 @@ A Student ERP App is a digital platform designed to streamline and manage variou
 ## Download
 
 You can download the app here: [https://ai2.appinventor.mit.edu/b/3jkhg](https://ai2.appinventor.mit.edu/b/3jkhg)
+## Team
+1) Aneesh Padole (FY, Vit cs)
+2) Advati Malwade (FY, Vit cs)
